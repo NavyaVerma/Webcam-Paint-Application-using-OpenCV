@@ -1,6 +1,5 @@
 # Webcam-Paint-Application-using-OpenCV
-<br><br>
-
+<br>
 This Python application uses OpenCV library to track any blue object in the frame and uses the detected object to draw colored lines (Blue, Green, Red and Yellow).<br>
 To perform video tracking an algorithm analyzes sequential video frames and outputs the movement of targets between the frames.<br>
 There are a variety of algorithms, each having strengths and weaknesses. Considering the intended use is important when choosing which algorithm to use.<br> 
